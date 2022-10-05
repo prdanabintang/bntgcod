@@ -1,0 +1,2 @@
+# bntgcod
+bintang code
